@@ -9,3 +9,5 @@ Requirements :
 3. Run main.py file and you can Enjoy the Game.
 
 All the rest instruction well explained in the Game itself.
+
+![Image of Yaktocat](https://github.com/akgupta0777/The-Paper-Game/blob/master/paper%20Game%20ss/about.jpg)
