@@ -10,4 +10,18 @@ Requirements :
 
 All the rest instruction well explained in the Game itself.
 
-![Image of Yaktocat](https://github.com/akgupta0777/The-Paper-Game/blob/master/paper%20Game%20ss/about.jpg)
+Some ScreenShots of UI.
+
+![About](https://github.com/akgupta0777/The-Paper-Game/blob/master/paper%20Game%20ss/about.jpg)
+
+![Instructions](https://github.com/akgupta0777/The-Paper-Game/blob/master/paper%20Game%20ss/instructions.jpg)
+
+![Image](https://github.com/akgupta0777/The-Paper-Game/blob/master/paper%20Game%20ss/Cslips.jpg)
+
+![Play Zone](https://github.com/akgupta0777/The-Paper-Game/blob/master/paper%20Game%20ss/PlaySCreen.jpg)
+
+![Image](https://github.com/akgupta0777/The-Paper-Game/blob/master/paper%20Game%20ss/default.jpg)
+
+![Intro](https://github.com/akgupta0777/The-Paper-Game/blob/master/paper%20Game%20ss/intro.jpg)
+
+![Image](https://github.com/akgupta0777/The-Paper-Game/blob/master/paper%20Game%20ss/startscreen.jpg)
