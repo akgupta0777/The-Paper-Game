@@ -1217,12 +1217,12 @@ Builder.load_string('''
 #Main App Class
 class SlipsApp(MDApp):
 
-    # These are our Admob Ad IDs
-    APP = "ca-app-pub-4995643168454212~2097044832"
-    BANNER = "ca-app-pub-4995643168454212/8909865193"
-    INTERSTITIAL = "ca-app-pub-4995643168454212/6092130162"
-    REWARDED_VIDEO = "ca-app-pub-4995643168454212/9839803480"
-    TEST_DEVICE_ID = "3C91BAC5C088815B62389497AC1E309D"
+    # These are our Admob Ad IDs I kept these secrets.
+    APP = "ca-app-pub-XXXXXXXXXXXXXXXXXXXXXXXX" 
+    BANNER = "ca-app-pub-XXXXXXXXXXXXXXXXXXXXXXXX"
+    INTERSTITIAL = "ca-app-pub-XXXXXXXXXXXXXXXXXXXXXXXX"
+    REWARDED_VIDEO = "ca-app-pub-XXXXXXXXXXXXXXXXXXXXXXXX"
+    TEST_DEVICE_ID = "XXXXXXXXXXXXXXXXXXXXXXXX"
     # Creating Ad Instance
     ads = KivMob(APP)
     #Number oF Rewards(SneakPeak)
