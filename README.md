@@ -12,16 +12,16 @@ All the rest instruction well explained in the Game itself.
 
 Some ScreenShots of UI.
 
-![About](https://github.com/akgupta0777/The-Paper-Game/blob/master/paper%20Game%20ss/about.jpg)
+![About](https://github.com/akgupta0777/The-Paper-Game/blob/master/Screenshots/about.jpg)
 
-![Instructions](https://github.com/akgupta0777/The-Paper-Game/blob/master/paper%20Game%20ss/instructions.jpg)
+![Instructions](https://github.com/akgupta0777/The-Paper-Game/blob/master/Screenshots/instructions.jpg)
 
-![Image](https://github.com/akgupta0777/The-Paper-Game/blob/master/paper%20Game%20ss/Cslips.jpg)
+![Image](https://github.com/akgupta0777/The-Paper-Game/blob/master/Screenshots/Cslips.jpg)
 
-![Play Zone](https://github.com/akgupta0777/The-Paper-Game/blob/master/paper%20Game%20ss/PlaySCreen.jpg)
+![Play Zone](https://github.com/akgupta0777/The-Paper-Game/blob/master/Screenshots/PlaySCreen.jpg)
 
-![Image](https://github.com/akgupta0777/The-Paper-Game/blob/master/paper%20Game%20ss/default.jpg)
+![Image](https://github.com/akgupta0777/The-Paper-Game/blob/master/Screenshots/default.jpg)
 
-![Intro](https://github.com/akgupta0777/The-Paper-Game/blob/master/paper%20Game%20ss/intro.jpg)
+![Intro](https://github.com/akgupta0777/The-Paper-Game/blob/master/Screenshots/intro.jpg)
 
-![Image](https://github.com/akgupta0777/The-Paper-Game/blob/master/paper%20Game%20ss/startscreen.jpg)
+![Image](https://github.com/akgupta0777/The-Paper-Game/blob/master/Screenshots/startscreen.jpg)

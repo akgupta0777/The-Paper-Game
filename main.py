@@ -521,7 +521,7 @@ Builder.load_string('''
             Rectangle:
                 pos: self.pos
                 size: self.size
-                source: "paper white.png"
+                source: "Assets/menu-background.png"
             
         BoxLayout:
             orientation: "vertical"
@@ -621,7 +621,7 @@ Builder.load_string('''
             Rectangle:
                 pos:self.pos
                 size: self.size
-                source: "About.png"
+                source: "Assets/About.png"
         MDRectangleFlatIconButton:
             text:"Follow"
             icon:"heart-multiple"
@@ -643,7 +643,7 @@ Builder.load_string('''
             Rectangle:
                 size:self.size
                 pos: self.pos
-                source:"credits.png"
+                source:"Assets/credits.png"
         MDTextButton:
             text:"Back"
             #font_size: 30
@@ -675,7 +675,7 @@ Builder.load_string('''
         Rectangle:
             pos: self.pos
             size: self.size 
-            source: "howtoplay.png"
+            source: "Assets/howtoplay.png"
     Label:
         text: "Back"
         color: 0,0,0,1
@@ -692,7 +692,7 @@ Builder.load_string('''
         Rectangle:
             pos: self.pos
             size: self.size
-            source: "multiplayer.png"
+            source: "Assets/multiplayer.png"
     Label:
         text: "Back"
         color: 0,0,0,1
@@ -1058,7 +1058,7 @@ Builder.load_string('''
             Rectangle:
                 size: self.size
                 pos: self.pos
-                source:"challenge.png"
+                source:"Assets/challenge.png"
         MDRectangleFlatIconButton:
             text:"Let's Go !!"
             icon:"arrow-right-bold"
@@ -1095,7 +1095,7 @@ Builder.load_string('''
         Button:
             text: root.player_1[0]
             color : 0,0,0,1
-            background_normal :"slip4.png"
+            background_normal :"Assets/Slips/slip4.png"
             allow_stretch:True
             keep_ratio:False
             on_release:
@@ -1107,7 +1107,7 @@ Builder.load_string('''
         Button:
             text: root.player_1[1]
             color: 0,0,0,1
-            background_normal :"slip3.png"
+            background_normal :"Assets/Slips/slip3.png"
             allow_stretch:True
             keep_ratio:False
             on_release:
@@ -1119,7 +1119,7 @@ Builder.load_string('''
         Button:
             text:root.player_1[2]
             color: 0,0,0,1
-            background_normal:"slip3.png"
+            background_normal:"Assets/Slips/slip3.png"
             allow_stretch:True
             keep_ratio:False
             on_release:
@@ -1131,7 +1131,7 @@ Builder.load_string('''
         Button:
             text: root.player_1[3]
             color: 0,0,0,1
-            background_normal : "slip1.png" 
+            background_normal : "Assets/Slips/slip1.png" 
             allow_stretch:True
             keep_ratio:False  
             on_release:
@@ -1167,7 +1167,7 @@ Builder.load_string('''
         Button:
             text: root.Player_1[0]
             color : 0,0,0,1
-            background_normal :"slip4.png"
+            background_normal :"Assets/Slips/slip4.png"
             allow_stretch:True
             keep_ratio:False
             on_release:
@@ -1179,7 +1179,7 @@ Builder.load_string('''
         Button:
             text: root.Player_1[1]
             color: 0,0,0,1
-            background_normal :"slip3.png"
+            background_normal :"Assets/Slips/slip3.png"
             allow_stretch:True
             keep_ratio:False
             on_release:
@@ -1203,7 +1203,7 @@ Builder.load_string('''
         Button:
             text: root.Player_1[3]
             color: 0,0,0,1
-            background_normal : "slip1.png" 
+            background_normal : "Assets/Slips/slip1.png" 
             allow_stretch:True
             keep_ratio:False  
             on_release:
@@ -1229,8 +1229,8 @@ class SlipsApp(MDApp):
     Num = NumericProperty(1)
     
     def __init__(self, *args,**kwargs):
-        self.theme_cls.theme_style = "Dark"
         super().__init__(**kwargs)
+        self.theme_cls.theme_style = "Dark"
         self.reward = Rewards_Handler(self)
         print("Slipsapp init",self)
 
