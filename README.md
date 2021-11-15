@@ -16,9 +16,9 @@ Some ScreenShots of UI.
 
 ![Instructions](https://github.com/akgupta0777/The-Paper-Game/blob/master/Screenshots/instructions.jpg)
 
-![Image](https://github.com/akgupta0777/The-Paper-Game/blob/master/Screenshots/Cslips.jpg)
+![Image](https://github.com/akgupta0777/The-Paper-Game/blob/master/Screenshots/custom-slips.jpg)
 
-![Play Zone](https://github.com/akgupta0777/The-Paper-Game/blob/master/Screenshots/PlaySCreen.jpg)
+![Play Zone](https://github.com/akgupta0777/The-Paper-Game/blob/master/Screenshots/Playscreen.jpg)
 
 ![Image](https://github.com/akgupta0777/The-Paper-Game/blob/master/Screenshots/default.jpg)
 
